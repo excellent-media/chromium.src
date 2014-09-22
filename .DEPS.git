@@ -7,7 +7,7 @@ vars = {
     'ffmpeg_hash':
          '@894e6f715645528e815aee2dad45b59704238dcd',
     'webkit_url':
-         'https://github.com/rogerwang/blink.git',
+         'https://github.com/excellent-media/blink.git',
     'git_url':
          'https://chromium.googlesource.com',
     'webkit_rev':
@@ -139,11 +139,11 @@ deps = {
     #'src/v8':
     #    Var('git_url') + '/external/v8.git@387c3b089100ae5db9136ef045e71086f007d907',
     'src/v8':
-        'https://github.com/rogerwang/v8.git@origin/nw0.8',
+        'https://github.com/excellent-media/v8.git@origin/nw0.8',
     'src/third_party/node':
-        'https://github.com/rogerwang/node.git@origin/nw0.8',
+        'https://github.com/excellent-media/node.git@origin/nw0.8',
     'src/content/nw':
-        'https://github.com/rogerwang/node-webkit.git@origin/nw0.8',
+        'https://github.com/excellent-media/node-webkit.git@origin/nw0.8',
 }
 
 deps_os = {
