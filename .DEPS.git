@@ -165,7 +165,7 @@ deps = {
     'src/third_party/node':
         'https://github.com/excellent-media/node.git@origin/nw',
     'src/content/nw':
-        'https://github.com/excellent-media/node-webkit.git@origin/nw',
+        'https://github.com/excellent-media/node-webkit.git@origin/master',
 
 }
 
